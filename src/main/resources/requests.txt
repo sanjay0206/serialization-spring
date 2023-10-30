@@ -1,0 +1,11 @@
+{
+    "name": "Sam",
+    "dept": "Operation",
+    "salary": 12000
+}
+
+{
+    "name": "Peter",
+    "dept": "Technology",
+    "salary": 18000
+}
